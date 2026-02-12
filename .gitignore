@@ -1,0 +1,4 @@
+.env
+node_modules/
+sounds/
+volumes.json
